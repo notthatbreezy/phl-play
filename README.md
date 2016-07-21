@@ -1,6 +1,8 @@
 ## Description
 
-Sample project for building a GIS Django Application
+Sample project for building a GIS Django Application.
+
+I gave a [presentation](./docs/intro-to-geospatial-apps-with-django.pdf) at a GeoPhilly meetup in July 2016 that described the inspiration and thoughts around this project.
 
 ## Requirements
 
